@@ -1,0 +1,22 @@
+{
+     
+    "require": {
+        "php": ">=5.4.0",
+        "topthink/framework": "*",
+        "samplecms/tp5_theme": "^2.0",
+        "samplecms/tp5_helpers": "dev-master",
+        "samplecms/tp5_mongodb": "dev-master",
+        "samplecms/tp5_widgets": "dev-master",
+        "erusev/parsedown": "^1.6"
+    },
+    "minimum-stability": "dev",
+    "config": {
+        "preferred-install": "dist"
+    },
+    "autoload": {
+        "files":["./function.php"],
+        "psr-4": {
+            "cms\\": "./cms"
+        } 
+    }
+}

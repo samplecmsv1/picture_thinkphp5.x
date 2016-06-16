@@ -1,2 +1,8 @@
-# picture_thinkphp5.x
-基于thinkphp 5.x的简单图片站
+图片站
+===============
+
+
+
+
+
+###如有问题请在微博中 @太极拳那点事儿 http://weibo.com/sunkangchina

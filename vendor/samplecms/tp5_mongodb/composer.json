@@ -1,0 +1,26 @@
+{
+    "name": "samplecms/tp5_mongodb",
+    "description": "thinkphp5 mongodb",
+    "type": "mongodb",
+    "keywords": [
+        "mongodb",
+        "thinkphp"
+    ],
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Sun Kang",
+            "link": "http://weibo.com/sunkangchina"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0",
+        "samplecms/tp5_helpers":"*"
+    },
+    "autoload": {
+         
+         "psr-4": {
+            "tp\\mongo\\": "./"
+        } 
+    }
+}

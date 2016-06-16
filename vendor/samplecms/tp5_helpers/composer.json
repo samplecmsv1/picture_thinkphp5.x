@@ -1,0 +1,25 @@
+{
+    "name": "samplecms/tp5_helpers",
+    "description": "thinkphp5 helpers",
+    "type": "widget",
+    "keywords": [
+        "helpers",
+        "thinkphp"
+    ],
+    "license": "BSD",
+    "authors": [
+        {
+            "name": "Sun Kang",
+            "link": "http://weibo.com/sunkangchina"
+        }
+    ],
+    "require": {
+        "php": ">=5.4.0"
+    },
+    "autoload": {
+         
+         "psr-4": {
+            "tp\\helpers\\": "./"
+        } 
+    }
+}
