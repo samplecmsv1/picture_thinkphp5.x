@@ -1,0 +1,2637 @@
+[ 2016-06-17T04:26:57+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.058644s] [吞吐率：17.05req/s] [内存消耗：2,544.71kb] [文件加载：62]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [0]模板文件不存在 :/Library/WebServer/Documents/www/app/wstaichi.com/public/../application/content/view/index/go.html[/Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/library/think/view/driver/Think.php:76]
+[ notice ] 主题文件不存在/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html
+
+[ 2016-06-17T04:27:48+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.117956s] [吞吐率：8.48req/s] [内存消耗：2,792.69kb] [文件加载：64]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [1]Call to undefined method think\template\driver\File::layout()[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:3]
+
+[ 2016-06-17T04:30:09+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.111316s] [吞吐率：8.98req/s] [内存消耗：2,992.77kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:158]
+
+[ 2016-06-17T04:30:09+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/base_urlthemes/default/home.js
+[ log ] my/content/index/base_urlthemes/default/home.js [运行时间：0.180195s] [吞吐率：5.55req/s] [内存消耗：2,275.26kb] [文件加载：53]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'base_urlthemes',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+
+[ 2016-06-17T04:30:11+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.030476s] [吞吐率：32.81req/s] [内存消耗：2,752.76kb] [文件加载：71]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:158]
+
+[ 2016-06-17T04:30:11+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/base_urlthemes/default/home.js
+[ log ] my/content/index/base_urlthemes/default/home.js [运行时间：0.045379s] [吞吐率：22.04req/s] [内存消耗：2,275.26kb] [文件加载：53]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'base_urlthemes',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+
+[ 2016-06-17T04:31:10+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.080637s] [吞吐率：12.40req/s] [内存消耗：2,992.98kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:162]
+
+[ 2016-06-17T04:31:46+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.120075s] [吞吐率：8.33req/s] [内存消耗：2,993.34kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:161]
+
+[ 2016-06-17T04:32:53+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.101005s] [吞吐率：9.90req/s] [内存消耗：2,992.96kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:164]
+
+[ 2016-06-17T04:33:04+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.047046s] [吞吐率：21.26req/s] [内存消耗：2,992.91kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:164]
+
+[ 2016-06-17T04:33:06+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.032518s] [吞吐率：30.75req/s] [内存消耗：2,752.80kb] [文件加载：71]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:164]
+
+[ 2016-06-17T04:33:21+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.049505s] [吞吐率：20.20req/s] [内存消耗：2,992.91kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:164]
+
+[ 2016-06-17T04:33:22+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.028996s] [吞吐率：34.49req/s] [内存消耗：2,752.80kb] [文件加载：71]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:164]
+
+[ 2016-06-17T04:33:23+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/base_urlthemes/default/home.js
+[ log ] my/content/index/base_urlthemes/default/home.js [运行时间：0.170853s] [吞吐率：5.85req/s] [内存消耗：2,275.26kb] [文件加载：53]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'base_urlthemes',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+
+[ 2016-06-17T04:33:23+08:00 ] 127.0.0.1 127.0.0.1 GET /content/admin/index/q/Category.html
+[ log ] my/content/admin/index/q/Category.html [运行时间：0.017297s] [吞吐率：57.81req/s] [内存消耗：2,184.04kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'admin',
+    2 => 'index',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+
+[ 2016-06-17T04:33:29+08:00 ] 127.0.0.1 127.0.0.1 GET /content/admin/index/q/Post.html
+[ log ] my/content/admin/index/q/Post.html [运行时间：0.025847s] [吞吐率：38.69req/s] [内存消耗：2,184.05kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'admin',
+    2 => 'index',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+
+[ 2016-06-17T04:33:52+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.078408s] [吞吐率：12.75req/s] [内存消耗：2,992.91kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:164]
+
+[ 2016-06-17T04:33:52+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/base_urlthemes/default/home.js
+[ log ] my/content/index/base_urlthemes/default/home.js [运行时间：0.036646s] [吞吐率：27.29req/s] [内存消耗：2,275.26kb] [文件加载：53]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'base_urlthemes',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+
+[ 2016-06-17T04:33:53+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/index/q/Post.html
+[ log ] my/content/index/index/q/Post.html [运行时间：0.165368s] [吞吐率：6.05req/s] [内存消耗：2,809.63kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/index/index.html [ array (
+  0 => 'pager',
+  1 => 'datas',
+  2 => 'count',
+  3 => 'list',
+  4 => 'fields',
+  5 => 'index',
+  6 => 'view',
+  7 => 'type',
+  8 => 'par',
+  9 => 'url',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : list[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:67]
+[ error ] [8]未定义索引 : s[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:98]
+[ error ] [8]未定义索引 : page[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/paginate.php:51]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义变量 : page[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:105]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:164]
+
+[ 2016-06-17T04:33:54+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/index/q/base_urlthemes/default/home.js
+[ log ] my/content/index/index/q/base_urlthemes/default/home.js [运行时间：0.113069s] [吞吐率：8.84req/s] [内存消耗：2,202.08kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [1]Class '\app\content\models\Base_urlthemes' not found[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:42]
+
+[ 2016-06-17T04:33:55+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.033961s] [吞吐率：29.45req/s] [内存消耗：2,752.80kb] [文件加载：71]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:164]
+
+[ 2016-06-17T04:33:56+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/base_urlthemes/default/home.js
+[ log ] my/content/index/base_urlthemes/default/home.js [运行时间：0.029771s] [吞吐率：33.59req/s] [内存消耗：2,275.26kb] [文件加载：53]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'base_urlthemes',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+
+[ 2016-06-17T04:34:15+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.076385s] [吞吐率：13.09req/s] [内存消耗：2,990.01kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:135]
+
+[ 2016-06-17T04:34:15+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/base_urlthemes/default/home.js
+[ log ] my/content/index/base_urlthemes/default/home.js [运行时间：0.046228s] [吞吐率：21.63req/s] [内存消耗：2,275.26kb] [文件加载：53]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'base_urlthemes',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+
+[ 2016-06-17T04:34:16+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.030562s] [吞吐率：32.72req/s] [内存消耗：2,751.95kb] [文件加载：71]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:135]
+
+[ 2016-06-17T04:34:16+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/base_urlthemes/default/home.js
+[ log ] my/content/index/base_urlthemes/default/home.js [运行时间：0.030586s] [吞吐率：32.69req/s] [内存消耗：2,275.26kb] [文件加载：53]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'base_urlthemes',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+
+[ 2016-06-17T04:34:31+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.044134s] [吞吐率：22.66req/s] [内存消耗：2,989.09kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:113]
+
+[ 2016-06-17T04:34:31+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/base_urlthemes/default/home.js
+[ log ] my/content/index/base_urlthemes/default/home.js [运行时间：0.037949s] [吞吐率：26.35req/s] [内存消耗：2,275.26kb] [文件加载：53]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'base_urlthemes',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+
+[ 2016-06-17T04:34:38+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.035299s] [吞吐率：28.33req/s] [内存消耗：2,988.45kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:105]
+
+[ 2016-06-17T04:34:39+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/base_urlthemes/default/home.js
+[ log ] my/content/index/base_urlthemes/default/home.js [运行时间：0.035778s] [吞吐率：27.95req/s] [内存消耗：2,275.26kb] [文件加载：53]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'base_urlthemes',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+
+[ 2016-06-17T04:34:44+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.033726s] [吞吐率：29.65req/s] [内存消耗：2,988.23kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:104]
+
+[ 2016-06-17T04:34:44+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/base_urlthemes/default/home.js
+[ log ] my/content/index/base_urlthemes/default/home.js [运行时间：0.040946s] [吞吐率：24.42req/s] [内存消耗：2,275.26kb] [文件加载：53]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'base_urlthemes',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+
+[ 2016-06-17T04:34:56+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.039640s] [吞吐率：25.23req/s] [内存消耗：2,992.65kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:162]
+
+[ 2016-06-17T04:34:56+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/base_urlthemes/default/home.js
+[ log ] my/content/index/base_urlthemes/default/home.js [运行时间：0.025523s] [吞吐率：39.18req/s] [内存消耗：2,275.26kb] [文件加载：53]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'base_urlthemes',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+
+[ 2016-06-17T04:35:18+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.045804s] [吞吐率：21.83req/s] [内存消耗：2,993.03kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Post[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:162]
+
+[ 2016-06-17T04:35:18+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/base_urlthemes/default/home.js
+[ log ] my/content/index/base_urlthemes/default/home.js [运行时间：0.028404s] [吞吐率：35.21req/s] [内存消耗：2,275.26kb] [文件加载：53]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'base_urlthemes',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+
+[ 2016-06-17T04:36:45+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/go.html
+[ log ] my/content/index/go.html [运行时间：0.131815s] [吞吐率：7.59req/s] [内存消耗：2,750.42kb] [文件加载：71]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'go',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/go.html [ array (
+  0 => 'posts',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : \app\content\models\Pics[/Library/WebServer/Documents/www/app/wstaichi.com/function.php:18]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/5ff09431075abfad56671bed7ccedcd8.php:162]
+
+[ 2016-06-17T04:36:46+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/base_urlthemes/default/home.js
+[ log ] my/content/index/base_urlthemes/default/home.js [运行时间：0.087613s] [吞吐率：11.41req/s] [内存消耗：2,275.26kb] [文件加载：53]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'base_urlthemes',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : q[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:37]
+
+[ 2016-06-17T04:36:47+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/index/q/Pics.html
+[ log ] my/content/index/index/q/Pics.html [运行时间：0.104396s] [吞吐率：9.58req/s] [内存消耗：2,804.38kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/index/index.html [ array (
+  0 => 'pager',
+  1 => 'datas',
+  2 => 'count',
+  3 => 'list',
+  4 => 'fields',
+  5 => 'index',
+  6 => 'view',
+  7 => 'type',
+  8 => 'par',
+  9 => 'url',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : list[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:67]
+[ error ] [8]未定义索引 : s[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:98]
+[ error ] [8]未定义索引 : page[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/paginate.php:51]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义变量 : page[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:105]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:164]
+
+[ 2016-06-17T04:36:48+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/index/q/base_urlthemes/default/home.js
+[ log ] my/content/index/index/q/base_urlthemes/default/home.js [运行时间：0.077473s] [吞吐率：12.91req/s] [内存消耗：2,202.08kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [1]Class '\app\content\models\Base_urlthemes' not found[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:42]
+
+[ 2016-06-17T04:36:51+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/index/q/Pics.html
+[ log ] my/content/index/index/q/Pics.html [运行时间：0.055875s] [吞吐率：17.90req/s] [内存消耗：2,804.38kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/index/index.html [ array (
+  0 => 'pager',
+  1 => 'datas',
+  2 => 'count',
+  3 => 'list',
+  4 => 'fields',
+  5 => 'index',
+  6 => 'view',
+  7 => 'type',
+  8 => 'par',
+  9 => 'url',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : list[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:67]
+[ error ] [8]未定义索引 : s[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:98]
+[ error ] [8]未定义索引 : page[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/paginate.php:51]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义变量 : page[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:105]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:164]
+
+[ 2016-06-17T04:36:51+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/index/q/base_urlthemes/default/home.js
+[ log ] my/content/index/index/q/base_urlthemes/default/home.js [运行时间：0.033228s] [吞吐率：30.10req/s] [内存消耗：2,202.08kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [1]Class '\app\content\models\Base_urlthemes' not found[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:42]
+
+[ 2016-06-17T04:37:19+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/index/q/Pics.html
+[ log ] my/content/index/index/q/Pics.html [运行时间：0.099081s] [吞吐率：10.09req/s] [内存消耗：3,045.77kb] [文件加载：75]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/index/index.html [ array (
+  0 => 'pager',
+  1 => 'datas',
+  2 => 'count',
+  3 => 'list',
+  4 => 'fields',
+  5 => 'index',
+  6 => 'view',
+  7 => 'type',
+  8 => 'par',
+  9 => 'url',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : list[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:67]
+[ error ] [8]未定义索引 : s[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:98]
+[ error ] [8]未定义索引 : page[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/paginate.php:51]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义变量 : page[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:102]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:161]
+
+[ 2016-06-17T04:37:20+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/index/q/base_urlthemes/default/home.js
+[ log ] my/content/index/index/q/base_urlthemes/default/home.js [运行时间：0.038011s] [吞吐率：26.31req/s] [内存消耗：2,201.95kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [1]Class '\app\content\models\Base_urlthemes' not found[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:42]
+
+[ 2016-06-17T04:37:21+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/view/q/Pics.html
+[ log ] my/content/index/view/q/Pics.html [运行时间：0.065612s] [吞吐率：15.24req/s] [内存消耗：3,196.50kb] [文件加载：83]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'view',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/form/index.html [ array (
+  0 => 'view',
+  1 => 'fields',
+  2 => 'index',
+  3 => 'type',
+  4 => 'status',
+  5 => 'par',
+  6 => 'url',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : list[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:67]
+[ error ] [8]未定义索引 : id[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:107]
+[ error ] [8]未定义索引 : s[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:152]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义变量 : data[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:59]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义变量 : data[/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/fields/file.php:4]
+[ error ] [8]未定义索引 : \tp\widgets\jui[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\plupload[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : size[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:33]
+[ error ] [8]未定义索引 : ext[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:35]
+[ error ] [8]未定义索引 : url[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:36]
+[ error ] [8]未定义索引 : urlHash[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:37]
+[ error ] [8]未定义索引 : label[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:39]
+[ error ] [2048]Non-static method tp\helpers\str::rand() should not be called statically, assuming $this from incompatible context[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:27]
+[ error ] [2048]Non-static method tp\helpers\str::rand() should not be called statically, assuming $this from incompatible context[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:28]
+[ error ] [8]未定义变量 : dataString[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:62]
+[ error ] [8]未定义索引 : CKEDITOR[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:83]
+[ error ] [8]未定义变量 : str[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:256]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义索引 : condition[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:247]
+[ error ] [8]未定义变量 : new[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/tree.php:20]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义索引 : \tp\widgets\Redactor[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : id[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:81]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\jui::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\plupload::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\redactor::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:154]
+
+[ 2016-06-17T04:37:22+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/view/q/base_urlthemes/default/home.js
+[ log ] my/content/index/view/q/base_urlthemes/default/home.js [运行时间：0.038372s] [吞吐率：26.06req/s] [内存消耗：2,202.04kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'view',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [1]Class '\app\content\models\Base_urlthemes' not found[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:42]
+
+[ 2016-06-17T04:37:24+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/index/q/Pics.html
+[ log ] my/content/index/index/q/Pics.html [运行时间：0.091760s] [吞吐率：10.90req/s] [内存消耗：2,804.41kb] [文件加载：73]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/index/index.html [ array (
+  0 => 'pager',
+  1 => 'datas',
+  2 => 'count',
+  3 => 'list',
+  4 => 'fields',
+  5 => 'index',
+  6 => 'view',
+  7 => 'type',
+  8 => 'par',
+  9 => 'url',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : list[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:67]
+[ error ] [8]未定义索引 : s[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:98]
+[ error ] [8]未定义索引 : page[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/paginate.php:51]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义变量 : page[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:102]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]未定义索引 : js_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]未定义索引 : css_code[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_helpers/widget.php:23]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/44c35d1f5d2362574cb2cd6d44a87a13.php:161]
+
+[ 2016-06-17T04:37:24+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/index/q/base_urlthemes/default/home.js
+[ log ] my/content/index/index/q/base_urlthemes/default/home.js [运行时间：0.070429s] [吞吐率：14.20req/s] [内存消耗：2,202.08kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'index',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [1]Class '\app\content\models\Base_urlthemes' not found[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:42]
+
+[ 2016-06-17T04:37:25+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/view/q/Pics.html
+[ log ] my/content/index/view/q/Pics.html [运行时间：0.038840s] [吞吐率：25.75req/s] [内存消耗：2,950.18kb] [文件加载：81]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'view',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/form/index.html [ array (
+  0 => 'view',
+  1 => 'fields',
+  2 => 'index',
+  3 => 'type',
+  4 => 'status',
+  5 => 'par',
+  6 => 'url',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : list[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:67]
+[ error ] [8]未定义索引 : id[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:107]
+[ error ] [8]未定义索引 : s[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:152]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义变量 : data[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:59]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义变量 : data[/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/fields/file.php:4]
+[ error ] [8]未定义索引 : \tp\widgets\jui[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\plupload[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : size[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:33]
+[ error ] [8]未定义索引 : ext[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:35]
+[ error ] [8]未定义索引 : url[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:36]
+[ error ] [8]未定义索引 : urlHash[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:37]
+[ error ] [8]未定义索引 : label[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:39]
+[ error ] [2048]Non-static method tp\helpers\str::rand() should not be called statically, assuming $this from incompatible context[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:27]
+[ error ] [2048]Non-static method tp\helpers\str::rand() should not be called statically, assuming $this from incompatible context[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:28]
+[ error ] [8]未定义变量 : dataString[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:62]
+[ error ] [8]未定义索引 : CKEDITOR[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:83]
+[ error ] [8]未定义变量 : str[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:256]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义索引 : condition[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:247]
+[ error ] [8]未定义变量 : new[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/tree.php:20]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义索引 : \tp\widgets\Redactor[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : id[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:81]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\jui::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\plupload::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\redactor::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:154]
+
+[ 2016-06-17T04:37:25+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/view/q/base_urlthemes/default/home.js
+[ log ] my/content/index/view/q/base_urlthemes/default/home.js [运行时间：0.040909s] [吞吐率：24.44req/s] [内存消耗：2,202.04kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'view',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [1]Class '\app\content\models\Base_urlthemes' not found[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:42]
+
+[ 2016-06-17T04:37:46+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/view/q/Pics.html
+[ log ] my/content/index/view/q/Pics.html [运行时间：0.145479s] [吞吐率：6.87req/s] [内存消耗：2,950.03kb] [文件加载：81]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'view',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/form/index.html [ array (
+  0 => 'view',
+  1 => 'fields',
+  2 => 'index',
+  3 => 'type',
+  4 => 'status',
+  5 => 'par',
+  6 => 'url',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : list[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:67]
+[ error ] [8]未定义索引 : id[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:107]
+[ error ] [8]未定义索引 : s[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:152]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义变量 : data[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:59]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义变量 : data[/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/fields/file.php:4]
+[ error ] [8]未定义索引 : \tp\widgets\jui[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\plupload[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : size[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:33]
+[ error ] [8]未定义索引 : ext[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:35]
+[ error ] [8]未定义索引 : url[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:36]
+[ error ] [8]未定义索引 : urlHash[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:37]
+[ error ] [8]未定义索引 : label[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:39]
+[ error ] [2048]Non-static method tp\helpers\str::rand() should not be called statically, assuming $this from incompatible context[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:27]
+[ error ] [2048]Non-static method tp\helpers\str::rand() should not be called statically, assuming $this from incompatible context[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:28]
+[ error ] [8]未定义变量 : dataString[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:62]
+[ error ] [8]未定义索引 : CKEDITOR[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:83]
+[ error ] [8]未定义变量 : str[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:256]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义索引 : condition[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:247]
+[ error ] [8]未定义变量 : new[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/tree.php:20]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义索引 : \tp\widgets\Redactor[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : id[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:81]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\jui::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\plupload::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\redactor::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:154]
+
+[ 2016-06-17T04:37:47+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/view/q/base_urlthemes/default/home.js
+[ log ] my/content/index/view/q/base_urlthemes/default/home.js [运行时间：0.069661s] [吞吐率：14.36req/s] [内存消耗：2,201.98kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'view',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [1]Class '\app\content\models\Base_urlthemes' not found[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:42]
+
+[ 2016-06-17T04:38:06+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/view/q/Pics.html
+[ log ] my/content/index/view/q/Pics.html [运行时间：0.103545s] [吞吐率：9.66req/s] [内存消耗：2,950.03kb] [文件加载：81]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'view',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/form/index.html [ array (
+  0 => 'view',
+  1 => 'fields',
+  2 => 'index',
+  3 => 'type',
+  4 => 'status',
+  5 => 'par',
+  6 => 'url',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : list[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:67]
+[ error ] [8]未定义索引 : id[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:107]
+[ error ] [8]未定义索引 : s[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:152]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义变量 : data[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:59]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义变量 : data[/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/fields/file.php:4]
+[ error ] [8]未定义索引 : \tp\widgets\jui[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\plupload[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : size[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:33]
+[ error ] [8]未定义索引 : ext[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:35]
+[ error ] [8]未定义索引 : url[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:36]
+[ error ] [8]未定义索引 : urlHash[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:37]
+[ error ] [8]未定义索引 : label[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:39]
+[ error ] [2048]Non-static method tp\helpers\str::rand() should not be called statically, assuming $this from incompatible context[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:27]
+[ error ] [2048]Non-static method tp\helpers\str::rand() should not be called statically, assuming $this from incompatible context[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:28]
+[ error ] [8]未定义变量 : dataString[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:62]
+[ error ] [8]未定义索引 : CKEDITOR[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:83]
+[ error ] [8]未定义变量 : str[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:256]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义索引 : condition[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:247]
+[ error ] [8]未定义变量 : new[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/tree.php:20]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义索引 : \tp\widgets\Redactor[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : id[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:81]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\jui::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\plupload::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\redactor::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:154]
+
+[ 2016-06-17T04:38:06+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/view/q/base_urlthemes/default/home.js
+[ log ] my/content/index/view/q/base_urlthemes/default/home.js [运行时间：0.086999s] [吞吐率：11.49req/s] [内存消耗：2,201.98kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'view',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [1]Class '\app\content\models\Base_urlthemes' not found[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:42]
+
+[ 2016-06-17T04:38:10+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/view/q/Pics.html
+[ log ] my/content/index/view/q/Pics.html [运行时间：0.048836s] [吞吐率：20.48req/s] [内存消耗：2,950.26kb] [文件加载：81]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'view',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/form/index.html [ array (
+  0 => 'view',
+  1 => 'fields',
+  2 => 'index',
+  3 => 'type',
+  4 => 'status',
+  5 => 'par',
+  6 => 'url',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : list[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:67]
+[ error ] [8]未定义索引 : id[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:107]
+[ error ] [8]未定义索引 : s[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:152]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义变量 : data[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:59]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义变量 : data[/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/fields/file.php:4]
+[ error ] [8]未定义索引 : \tp\widgets\jui[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\plupload[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : size[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:33]
+[ error ] [8]未定义索引 : ext[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:35]
+[ error ] [8]未定义索引 : url[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:36]
+[ error ] [8]未定义索引 : urlHash[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:37]
+[ error ] [8]未定义索引 : label[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:39]
+[ error ] [2048]Non-static method tp\helpers\str::rand() should not be called statically, assuming $this from incompatible context[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:27]
+[ error ] [2048]Non-static method tp\helpers\str::rand() should not be called statically, assuming $this from incompatible context[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:28]
+[ error ] [8]未定义变量 : dataString[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:62]
+[ error ] [8]未定义索引 : CKEDITOR[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:83]
+[ error ] [8]未定义变量 : str[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:256]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义索引 : condition[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:247]
+[ error ] [8]未定义变量 : new[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/tree.php:20]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义索引 : \tp\widgets\Redactor[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : id[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:81]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\jui::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\plupload::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\redactor::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:154]
+
+[ 2016-06-17T04:38:10+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/view/q/base_urlthemes/default/home.js
+[ log ] my/content/index/view/q/base_urlthemes/default/home.js [运行时间：0.023686s] [吞吐率：42.22req/s] [内存消耗：2,201.90kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'view',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [1]Class '\app\content\models\Base_urlthemes' not found[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:42]
+
+[ 2016-06-17T04:38:23+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/view/q/Pics.html
+[ log ] my/content/index/view/q/Pics.html [运行时间：0.056895s] [吞吐率：17.58req/s] [内存消耗：2,950.26kb] [文件加载：81]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'view',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ CACHE ] INIT File:array (
+  'type' => 'File',
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/cache/',
+  'prefix' => '',
+  'expire' => 0,
+)
+[ info ] [ RUN ] /Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php[ array (
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ VIEW ] /Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/form/index.html [ array (
+  0 => 'view',
+  1 => 'fields',
+  2 => 'index',
+  3 => 'type',
+  4 => 'status',
+  5 => 'par',
+  6 => 'url',
+) ]
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:22]
+[ error ] [8]未定义索引 : status[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:23]
+[ error ] [8]未定义索引 : list[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:67]
+[ error ] [8]未定义索引 : id[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:107]
+[ error ] [8]未定义索引 : s[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:152]
+[ error ] [8]未定义变量 : title[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:5]
+[ error ] [8]未定义索引 : \tp\widgets\bootstrap[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\ajax_form[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\font_awesome[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义变量 : data[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:59]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义变量 : data[/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/admin/content/index/fields/file.php:4]
+[ error ] [8]未定义索引 : \tp\widgets\jui[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : \tp\widgets\plupload[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : size[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:33]
+[ error ] [8]未定义索引 : ext[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:35]
+[ error ] [8]未定义索引 : url[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:36]
+[ error ] [8]未定义索引 : urlHash[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:37]
+[ error ] [8]未定义索引 : label[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:39]
+[ error ] [2048]Non-static method tp\helpers\str::rand() should not be called statically, assuming $this from incompatible context[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:27]
+[ error ] [2048]Non-static method tp\helpers\str::rand() should not be called statically, assuming $this from incompatible context[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:28]
+[ error ] [8]未定义变量 : dataString[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:62]
+[ error ] [8]未定义索引 : CKEDITOR[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:83]
+[ error ] [8]未定义变量 : str[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/plupload.php:256]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义索引 : condition[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/base.php:247]
+[ error ] [8]未定义变量 : new[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/models/core/tree.php:20]
+[ error ] [8]Use of undefined constant element - assumed 'element'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:64]
+[ error ] [8]未定义索引 : \tp\widgets\Redactor[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:60]
+[ error ] [8]未定义索引 : id[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:81]
+[ error ] [8]Undefined property: tp\widgets\bootstrap::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\ajax_form::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\font_awesome::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\jui::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\plupload::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Undefined property: tp\widgets\redactor::$level[/Library/WebServer/Documents/www/app/wstaichi.com/vendor/samplecms/tp5_widgets/base.php:93]
+[ error ] [8]Use of undefined constant base_url - assumed 'base_url'[/Library/WebServer/Documents/www/app/wstaichi.com/runtime/temp/4c83ea495527bb8233168c50540b151a.php:154]
+
+[ 2016-06-17T04:38:23+08:00 ] 127.0.0.1 127.0.0.1 GET /content/index/view/q/base_urlthemes/default/home.js
+[ log ] my/content/index/view/q/base_urlthemes/default/home.js [运行时间：0.027500s] [吞吐率：36.36req/s] [内存消耗：2,201.90kb] [文件加载：51]
+[ info ] [ ROUTE ] array (
+  'type' => 'module',
+  'module' => 
+  array (
+    0 => 'content',
+    1 => 'index',
+    2 => 'view',
+  ),
+)
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LANG ] /Library/WebServer/Documents/www/app/wstaichi.com/thinkphp/lang/zh-cn.php
+[ info ] [ LOG ] INIT File: array (
+  'path' => '/Library/WebServer/Documents/www/app/wstaichi.com/public/../runtime/log/',
+)
+[ error ] [8]未定义变量 : template[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Base.php:83]
+[ error ] [1]Class '\app\content\models\Base_urlthemes' not found[/Library/WebServer/Documents/www/app/wstaichi.com/application/content/controller/Index.php:42]
+

@@ -1,0 +1,68 @@
+{extend name="base" /}
+
+{block name="main"}
+ 
+
+<a href=" {:url($url.'/index',$par)}" class='fa fa-list' > </a>
+
+<small> <a  class='fa fa-plus' href="{:url($url.'/view',$par)}">  </a></small>
+
+
+<span class="label label-default">
+{$type}
+</span>
+
+ 
+     
+     
+     <table class="table table-bordered">
+       
+      <thead>
+        <tr>
+          <th>标题({$count})</th>
+          <th>时间</th>
+          <th></th>
+        </tr>
+      </thead>
+      <tbody>
+      {foreach $datas as $data} 
+        <tr>
+          <th scope="row">{$data['title']|strip_tags}</th>
+          <td>{:date('Y-m-d H',$data['created']->sec)}</td>
+          <td >
+          
+          	<a href="{:url($url.'/status',['id'=>(string)$data['_id']]+$par)}" class="button">
+	         	{php}
+	         		switch ($data['status']){
+	         			case 1:
+	         				echo '<span class="glyphicon glyphicon-ok"></span>';
+	         				break;
+	         			default:
+	         				echo '<span class="glyphicon glyphicon-remove" style="color:red;"></span>';
+	         				break;
+	         		}
+	         	{/php}
+	        </a>
+	        
+	        
+          	<a href="{:url($url.'/view',['id'=>(string)$data['_id']]+$par);}" class="fa fa-pencil">
+	          
+	        </a>
+	        
+	        <a href="{:url($url.'/remove',['id'=>(string)$data['_id']]+$par)}" class="remove fa fa-remove">
+	          
+	        </a>
+	        
+	        
+          </td>
+        </tr>
+       {/foreach}
+      </tbody>
+    </table>
+    
+    
+{$page}
+
+{/block}
+
+  

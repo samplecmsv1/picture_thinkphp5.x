@@ -1,0 +1,69 @@
+{extend name="base" /}
+
+{block name="main"}
+
+<a href="{:url($url.'/index',$par)}" class='fa fa-list' > </a>
+
+<small> <a  class='fa fa-plus' href="{:url($url.'/view',$par)}">  </a></small>
+
+
+<span class="label label-default">
+{$type}
+</span>
+
+ 
+     
+     <form method="POST" class='ajaxform'  enctype="multipart/form-data">
+     
+     
+	  <div class="form-group">
+	    <label >标题</label>
+	    <input type="input" class="form-control"  value="{$data['title']}" name='title' >
+	  </div>
+	  
+	  
+	  {php} foreach($fields as $k=>$v){{/php}
+	  
+	  
+	  {php}
+	  	include  theme_path('fields/'.$v[element]);
+	  	
+	  {/php}
+	  
+	  		 
+	  
+	  {php} } {/php}
+	  
+	  
+	  
+	  
+	  
+	 
+	  <div class="form-group">
+	    <label>状态</label>
+	    
+	    <select name="status" class="select" style="width:100px;">
+	    {php}
+	    $true = false;
+	    foreach($status as $k=>$v){
+	    {/php}
+	    	<option value={$k} {php}if($true===false && ($data['status']==$k || !$_GET['id']) ) { $true = true{/php}selected{php} }{/php} >
+	    		<?php echo $v;?>
+	    	</option>
+	    {php} } {/php}
+	    </select>
+	    
+	  </div>
+	  <div class="form-group">
+	  	<button type="submit" id='submit' class="btn btn-default">保存</button>
+	  </div>
+	</form>
+ 
+
+
+ 
+     
+{/block}
+
+
+ 

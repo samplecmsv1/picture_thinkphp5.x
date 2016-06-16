@@ -1,0 +1,67 @@
+{extend name="base" /}
+
+{block name="main"}
+
+
+{php}
+$url = 'content/admin';
+
+$th = [
+'sky', 'vine',  'gray', 'industrial', 'social'
+];
+
+{/php}
+
+
+ <div class="page-header">
+  <h1 class='hot'>内容</h1>
+</div>
+
+<div class="list row">
+      {php} $i=0; foreach($posts as $v){ {/php}
+      
+        <div class="col-sm-6 col-md-2">
+
+          <div class="thumbnail">
+          
+            
+            	<a class='fa fa-plus' href="{:url('content/index/view',['q'=>$v['key']])}">
+              
+              </a>
+              
+        
+	          <a href="{:url('content/index/index',['q'=>$v['key']])}">
+	            <img   data-src="holder.js/150x150?outline=1&text={$v['title']}&size=18&theme={$th[$i]}" >
+	          </a>
+
+          </div>
+	 
+       
+      </div>
+      {php} 
+      if($i%5==0){
+          $i = 0;
+      } 
+      $i++;
+      }
+      {/php}
+      
+      
+</div>
+
+ 
+
+<style>
+
+.list .thumbnail .fa-plus {
+    position: absolute;
+    top: 10px;
+    right: 26px;
+    font-size: 27px;
+}
+
+</style>
+     
+<script src="{:base_url()}misc/holder.js"></script>
+
+{/block}

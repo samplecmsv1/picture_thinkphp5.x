@@ -1,12 +1,8 @@
-<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:94:"/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index/index.html";i:1466087809;s:81:"/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/base.html";i:1466088558;}*/ ?>
+<?php if (!defined('THINK_PATH')) exit(); /*a:2:{s:95:"/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/index/index/upload.html";i:1466086042;s:81:"/Library/WebServer/Documents/www/app/wstaichi.com/public/themes/default/base.html";i:1466086342;}*/ ?>
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=utf-8">
 <title><?php echo $title; ?></title>
-<meta charset="utf-8">
-<meta http-equiv="X-UA-Compatible" content="IE=edge">
-<meta name="viewport" content="width=device-width, initial-scale=1">
-
 <?php echo widgets('jquery',['level'=>99]); ?>
 <?php echo widgets('bootstrap'); ?>
 <?php echo widgets('font_awesome'); ?>
@@ -40,16 +36,26 @@
       
         
 <div class="starter-template">
-	我是图片网站系统，当然，免费才是最重要的！
+	上传文件
 </div>
-<?php foreach($datas as $v): ?> 
-<a href="<?php echo cms\img::ori($v['path']); ?>">
-   <img class='thumbnail lazy' style="float:left;margin:0 5px 5px 0" data-original="<?php echo cms\img::thum($v['path'],200); ?>" />
-</a>
-<?php endforeach; ?>
 
-<br>
-<?php echo $pager; ?>
+<form class='ajax' method='post'>
+
+
+<?php echo widgets('plupload',[
+	'ele'=>'file',
+	'option'=>[
+		'url'=>url('service/upload/index')
+	]
+]); ?>
+<br style="clear:both;">
+<textarea rows="" cols="" name='txt' id='txt'></textarea>
+<?php echo widgets('redactor',['ele'=>'#txt']); ?>
+
+</form>
+
+
+
 
 
       
@@ -63,9 +69,6 @@
 
 <?php echo widgets(); ?>
 <link rel="stylesheet" href="<?php echo base_url(); ?>themes/default/css.css">
-
-
-<script src="<?php echo base_url(); ?>misc/jquery.lazyload.min.js"></script>
 <script src="<?php echo base_url(); ?>misc/app.js"></script>
 
 </body>

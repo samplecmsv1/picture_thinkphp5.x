@@ -5,4 +5,9 @@
   RewriteCond %{REQUEST_FILENAME} !-d
   RewriteCond %{REQUEST_FILENAME} !-f
   RewriteRule ^(.*)$ index.php/$1 [QSA,PT,L]
+
+
+  php_value upload_max_filesize 20M
+  php_value post_max_size 20M
+
 </IfModule>

@@ -1,0 +1,29 @@
+{extend name="base" /}
+
+{block name="main"}
+<div class="starter-template">
+	上传文件
+</div>
+
+<form class='ajax' method='post'>
+
+
+{:widgets('plupload',[
+	'ele'=>'file',
+	'option'=>[
+		'url'=>url('service/upload/index')
+	]
+])}
+<br style="clear:both;">
+<textarea rows="" cols="" name='txt' id='txt'></textarea>
+{:widgets('redactor',['ele'=>'#txt'])}
+
+</form>
+
+
+
+
+{/block}
+
+ 
+ 
